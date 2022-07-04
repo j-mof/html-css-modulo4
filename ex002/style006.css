@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    color: black;
+    text-align: justify;
+    
+   
+
+}
+
+h1 , h2{
+    background-image: linear-gradient(to right, gray, lightgray);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.314);
+    border-radius: 05px;
+    
+}
+
+h1:hover, h2:hover{
+    text-decoration: underline;
+}
+
+p{
+    background-image: linear-gradient(to right, gray, lightgray);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.314);
+    border-radius: 05px;
+}
+
